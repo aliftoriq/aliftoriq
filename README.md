@@ -1,10 +1,9 @@
-# Halo semua! 
+# Hi!, I'm **Alif Toriq Alkasuar**.\
 
-Hi!, I'm **Alif Toriq Alkasuar**.\
+**Cloud Computing Path Student at Bangkit Academy 2023**
 
-**Bangkit Academy Student*
-
-[Linkedin](https://www.linkedin.com/in/alif-toriq/)ku ya.
+[Instagram](https://instagram.com/aliftoriq)
+[Linkedin](https://www.linkedin.com/in/alif-toriq-185058219/)
 <!--
 **aliftoriq/aliftoriq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
