@@ -1,6 +1,6 @@
 # Hi, Im Alif Toriq Alkausar
 
-🌐 [GitHub](https://github.com/aliftoriq) | [LinkedIn](www.linkedin.com/in/aliftoriq) | [Instagram](instaram.com/aliftoriq)
+🌐 [GitHub](https://github.com/aliftoriq) | [LinkedIn](https://www.linkedin.com/in/aliftoriq) | [Instagram](https://instaram.com/aliftoriq)
 
 ## PROFILE
 A final-year Informatics Engineering student at Sriwijaya University, specializing in Backend Development. Proficient in Gin Golang, Laravel, Express.js backend framework, and Bootstrap, Tailwind frontend framework. Experienced in DevOps with Google Cloud Services. Bangkit Academy Cloud Computing graduate, currently researching Natural Language Processing and developing a university-specific ojek-online app.
