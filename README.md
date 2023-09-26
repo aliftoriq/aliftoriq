@@ -9,8 +9,9 @@ A final-year Informatics Engineering student at Sriwijaya University, specializi
 
 **PT Bank Rakyat Indonesia** | *Jakarta, ID*
 *Fullstack Developer Intern - QLola (Bespoke TVC Team)* | *August 2023 - Present*
-- Collaborating with cross-functional teams, including product developments, and graphic designers.
-- Assisting in the development of features for an API designed to integrate all BRI services into an integrated corporate solution using Golang, along with several key technologies such as Minio, PostgreSQL, and Redis.
+- Collaborating with a cross-functional team, including product development and graphic designers from Kampus Merdeka.
+- Assisting in the development features for QLola using Golang.
+
 
 **Fasilkom Competitive Community** | *South Sumatra, ID*
 *Backend Developer - Sikuning Project* | *December 2022 - Present*
